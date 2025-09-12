@@ -3,3 +3,5 @@ class A():
         self.dd = 0
         self.dd = 0
         self.dd = 0
+    def set_url(self):
+        return "https::/localhost:8000"
